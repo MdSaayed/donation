@@ -19,7 +19,7 @@ const Donation = ({ dtn }) => {
                 </div>
                 <div className="p-4">
                     <p className="inline-block py-[2px] px-3 text-sm rounded mb-1" style={ctgTextStyles}> {category}</p>
-                    <h2 className="text-xl font-semibold" style={headingTextColor}>{title}</h2>
+                    <h2 className="text-[1.1rem] font-semibold" style={headingTextColor}>{title}</h2>
                 </div>
             </div>
         </Link>

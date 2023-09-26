@@ -7,7 +7,7 @@
         "category_bg": "#0052ff33",
         "card_bg": "#0052ff26",
         "text_color": "#0052FF",
-        "btn_bg": "#FF444A",
+        "btn_bg": "#0052FF",
         "description": "Clean water for children: Access to clean, safe drinking water is a fundamental human right, yet millions of children in underserved communities across the globe still lack this basic necessity. The consequences of this dire situation are grave, as contaminated water sources can lead to a multitude of life-threatening diseases. This is where our product, 'Clean Water for Children,' comes into play.\n\nOur mission is simple but critical: to provide clean and safe drinking water to children in need. We believe that no child should suffer due to a lack of access to clean water, and with your support, we can make this vision a reality.\n\nOur product is not just a water filtration system; it's a lifeline. It's a promise of health, hope, and a brighter future for countless children. By purchasing 'Clean Water for Children' for a donation of $149, you become a beacon of hope for these children and their communities.",
         "donate_amount": 149
     },
@@ -31,7 +31,7 @@
         "category_bg": "#79c23f33",
         "card_bg": "#79c23f26",
         "text_color": "#79C23F",
-        "btn_bg": "#FF444A",
+        "btn_bg": "#79C23F",
         "description": "Used Clothing Drive: Fashion meets sustainability in our 'Used Clothing Drive' initiative. We understand the importance of reducing waste and giving new life to pre-loved clothing items. By choosing 'Used Clothing Drive,' you're not just upgrading your wardrobe; you're contributing to a greener, more sustainable planet.\n\nOur product offers a wide selection of quality used clothing items at affordable prices, starting at just a donation of $49. Whether you're looking for casual wear, formal attire, or unique fashion pieces, we have something for everyone.\n\nWhen you embrace 'Used Clothing Drive,' you're embracing conscious fashion. You're saying no to fast fashion's harmful practices and yes to a more eco-friendly world. Your choice matters, and together, we can make fashion more sustainable.\n\nJoin us in this journey towards a greener, more stylish, and responsible future. Choose 'Used Clothing Drive' and make a fashionable statement for sustainability.",
         "donate_amount": 49
     },
@@ -40,10 +40,10 @@
         "picture": "https://i.ibb.co/j3rSggn/Food.png",
         "title": "Better Food for Everyone",
         "category": "Food",
-        "category_bg": "#79c23f33",
-        "card_bg": "#79c23f26",
-        "text_color": "#333333",
-        "btn_bg": "#FF444A",
+        "category_bg": "#f8714733",
+        "card_bg": "#f8710026",
+        "text_color": "#F87147",
+        "btn_bg": "#F87147",
         "description": "Better Food for Everyone: Your skin deserves the best, and 'Better Food for Everyone' delivers just that. Our premium ingredients are carefully selected to provide your skin with the nourishment it needs for a healthy, radiant glow.\n\nPamper yourself with the luxury of self-care. Treat your skin to the natural, nourishing benefits of 'Better Food for Everyone.' For only a donation of $120, you can experience the transformative power of quality skincare.\n\nWe believe that beauty should be uncompromising. That's why our product is designed to enhance your beauty regimen, giving you the confidence to conquer the world.\n\nWhen you choose 'Better Food for Everyone,' you're choosing excellence. You're investing in your well-being, embracing self-love, and radiating with natural beauty. Make the choice for a more beautiful you.",
         "donate_amount": 120
     },
@@ -52,10 +52,10 @@
         "picture": "https://i.ibb.co/jbFKnw3/Clothing.png",
         "title": "Better Food for Everyone",
         "category": "Food",
-        "category_bg": "#79c23f33",
-        "card_bg": "#79c23f26",
-        "text_color": "#333333",
-        "btn_bg": "#FF444A",
+        "category_bg": "#f8714733",
+        "card_bg": "#f8710026",
+        "text_color": "#F87147",
+        "btn_bg": "#F87147",
         "description": "Better Food for Everyone: Your skin deserves the best, and 'Better Food for Everyone' delivers just that. Our premium ingredients are carefully selected to provide your skin with the nourishment it needs for a healthy, radiant glow.\n\nPamper yourself with the luxury of self-care. Treat your skin to the natural, nourishing benefits of 'Better Food for Everyone.' For only a donation of $260, you can experience the transformative power of quality skincare.\n\nWe believe that beauty should be uncompromising. That's why our product is designed to enhance your beauty regimen, giving you the confidence to conquer the world.\n\nWhen you choose 'Better Food for Everyone,' you're choosing excellence. You're investing in your well-being, embracing self-love, and radiating with natural beauty. Make the choice for a more beautiful you.",
         "donate_amount": 260
     },
@@ -67,7 +67,7 @@
         "category_bg": "#79c23f33",
         "card_bg": "#79c23f26",
         "text_color": "#79C23F",
-        "btn_bg": "#FF444A",
+        "btn_bg": "#79C23F",
         "description": "Used Clothing Drive: Fashion meets sustainability in our 'Used Clothing Drive' initiative. We understand the importance of reducing waste and giving new life to pre-loved clothing items. By choosing 'Used Clothing Drive,' you're not just upgrading your wardrobe; you're contributing to a greener, more sustainable planet.\n\nOur product offers a wide selection of quality used clothing items at affordable prices, starting at just a donation of $199. Whether you're looking for casual wear, formal attire, or unique fashion pieces, we have something for everyone.\n\nWhen you embrace 'Used Clothing Drive,' you're embracing conscious fashion. You're saying no to fast fashion's harmful practices and yes to a more eco-friendly world. Your choice matters, and together, we can make fashion more sustainable.\n\nJoin us in this journey towards a greener, more stylish, and responsible future. Choose 'Used Clothing Drive' and make a fashionable statement for sustainability.",
         "donate_amount": 199
     },
@@ -91,7 +91,7 @@
         "category_bg": "#0052ff33",
         "card_bg": "#0052ff26",
         "text_color": "#0052FF",
-        "btn_bg": "#FF444A",
+        "btn_bg": "#0052FF",
         "description": "Clean water for children: Access to clean, safe drinking water is a fundamental human right, yet millions of children in underserved communities across the globe still lack this basic necessity. The consequences of this dire situation are grave, as contaminated water sources can lead to a multitude of life-threatening diseases. This is where our product, 'Clean Water for Children,' comes into play.\n\nOur mission is simple but critical: to provide clean and safe drinking water to children in need. We believe that no child should suffer due to a lack of access to clean water, and with your support, we can make this vision a reality.\n\nOur product is not just a water filtration system; it's a lifeline. It's a promise of health, hope, and a brighter future for countless children. By purchasing 'Clean Water for Children' for a donation of $123, you become a beacon of hope for these children and their communities.",
         "donate_amount": 123
     },
@@ -103,7 +103,7 @@
         "category_bg": "#0052ff33",
         "card_bg": "#0052ff26",
         "text_color": "#0052FF",
-        "btn_bg": "#FF444A",
+        "btn_bg": "#0052FF",
         "description": "Clean water for children: Make an impact with Product 9. This vital product ensures access to clean, safe drinking water for children in underserved areas worldwide. Your support can change lives. Order now and be a part of a noble cause. The price of this life-changing product is a donation of $331, and every contribution matters.",
         "donate_amount": 331
     },
@@ -127,7 +127,7 @@
         "category_bg": "#79c23f33",
         "card_bg": "#79c23f26",
         "text_color": "#79C23F",
-        "btn_bg": "#FF444A",
+        "btn_bg": "#79C23F",
         "description": "Used Clothing Drive: Fashion meets sustainability in our 'Used Clothing Drive' initiative. We understand the importance of reducing waste and giving new life to pre-loved clothing items. By choosing 'Used Clothing Drive,' you're not just upgrading your wardrobe; you're contributing to a greener, more sustainable planet.\n\nOur product offers a wide selection of quality used clothing items at affordable prices, starting at just a donation of $290. Whether you're looking for casual wear, formal attire, or unique fashion pieces, we have something for everyone.\n\nWhen you embrace 'Used Clothing Drive,' you're embracing conscious fashion. You're saying no to fast fashion's harmful practices and yes to a more eco-friendly world. Your choice matters, and together, we can make fashion more sustainable.\n\nJoin us in this journey towards a greener, more stylish, and responsible future. Choose 'Used Clothing Drive' and make a fashionable statement for sustainability.",
         "donate_amount": 290
     },
@@ -136,11 +136,13 @@
         "picture": "https://i.ibb.co/j3rSggn/Food.png",
         "title": "Better Food for Everyone",
         "category": "Food",
-        "category_bg": "#79c23f33",
-        "card_bg": "#79c23f26",
-        "text_color": "#333333",
-        "btn_bg": "#FF444A",
+        "category_bg": "#f8714733",
+        "card_bg": "#f8710026",
+        "text_color": "#F87147",
+        "btn_bg": "#F87147",
         "description": "Better Food for Everyone: Your skin deserves the best, and 'Better Food for Everyone' delivers just that. Our premium ingredients are carefully selected to provide your skin with the nourishment it needs for a healthy, radiant glow.\n\nPamper yourself with the luxury of self-care. Treat your skin to the natural, nourishing benefits of 'Better Food for Everyone.' For only a donation of $500, you can experience the transformative power of quality skincare.\n\nWe believe that beauty should be uncompromising. That's why our product is designed to enhance your beauty regimen, giving you the confidence to conquer the world.\n\nWhen you choose 'Better Food for Everyone,' you're choosing excellence. You're investing in your well-being, embracing self-love, and radiating with natural beauty. Make the choice for a more beautiful you.",
         "donate_amount": 500
     }
 ]
+
+
