@@ -4,7 +4,7 @@ import Home from "../pages/Home/Home";
 import DonationDetails from "../components/DonationDetails/DonationDetails";
 import Donations from "../components/Donation/Donations";
 import Donates from "../components/Donate/Donates";
-import Chart from "./Chart/Chart";
+import Chart from "../components/Chart/Chart";
 
 const myCreatrRoute = createBrowserRouter([
     {
@@ -21,7 +21,7 @@ const myCreatrRoute = createBrowserRouter([
                 element: <DonationDetails />
             },
             {
-                path: '/donation',
+                path: '/donate',
                 loader: ()=> fetch('/donation.json'),
                 element: <Donates />
             },

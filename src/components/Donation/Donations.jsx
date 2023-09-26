@@ -4,7 +4,7 @@ import Donation from "./Donation";
 const Donations = ({searchText}) => {
 
     const [donations, setDonations] = useState([]);
-    const search = searchText;
+    const search = searchText;   
 
     useEffect(() => {
         fetch('donation.json')
