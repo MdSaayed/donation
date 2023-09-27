@@ -31,7 +31,7 @@ const saveDonationOnLS = (id) => {
             theme: "light",
             });
     } else {
-        toast.warn('Already donated this campaign.', {
+        toast.warn('You have already made a donation to this campaign.', {
             position: "top-right",
             autoClose: 5000,
             hideProgressBar: false,
