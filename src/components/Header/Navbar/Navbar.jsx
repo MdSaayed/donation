@@ -21,8 +21,8 @@ const Navbar = () => {
 
                 <ul className="lg:hidden relative">
                     <li id="nav-btn" onClick={() => setNavMenu(!navMenu)} className="cursor-pointer"><TbMenu2 /></li>
-                    <ul id="resposive-menu" className={navMenu ? "flex flex-col gap-4 items-center justify-center bg-black absolute -top-4 right-0 text-white font-medium w-[300px] h-[100vh] z-50" : ' -mr-[1000px] hidden'}>
-                        <AiOutlineClose onClick={() => setNavMenu(!navMenu)} className="text-[#fff] absolute top-2 left-2 cursor-pointer" />
+                    <ul id="resposive-menu" className={navMenu ? "flex flex-col gap-4 items-center justify-center bg-black absolute -top-5 right-0 text-white font-medium w-[300px] h-[100vh] z-50" : ' -mr-[1000px] hidden'}>
+                        <AiOutlineClose onClick={() => setNavMenu(!navMenu)} className="text-[#fff] fon-blod absolute top-2 left-2 cursor-pointer" />
                         <li>
                             <NavLink
                                 to="/"

@@ -19,9 +19,10 @@ const Donations = ({ searchText }) => {
             <div className="grid grid-col md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap:3 lg:gap-4 max-w-6xl mx-auto py-12 md:py-12 lg:py-20  px-8 md:px-0 lg:px-0">
                 {
                     donations.filter((dtn) => {
-                        return searchTextLowerCase === '' ? dtn : dtn?.category?.toLowerCase().includes(searchTextLowerCase);
+                        return searchTextLowerCase === '' ? dtn : (dtn?.category?.toLowerCase().includes(searchTextLowerCase));
                     }).map((dtn, idx) => <Donation key={idx} dtn={dtn} />)
                 }
+
             </div>
         </div>
     );
