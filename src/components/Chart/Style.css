@@ -1,0 +1,9 @@
+.apexcharts-legend-series {
+    display: flex;
+    flex-flow: row-reverse;
+    align-items: center;
+    justify-content: center;
+}
+span.apexcharts-legend-text {
+    margin-right: 10px;
+}
