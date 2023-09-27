@@ -15,11 +15,11 @@ const Donation = ({ dtn }) => {
         <Link to={`/donation/${id}`}>
             <div className="rounded-md" style={{ backgroundColor: card_bg }}>
                 <div>
-                    <img className="w-full h-40" src={picture} alt="" />
+                    <img className="w-full h-[18rem] lg:h-40" src={picture} alt="" />
                 </div>
                 <div className="p-4">
-                    <p className="inline-block py-[2px] px-3 text-sm rounded mb-1" style={ctgTextStyles}> {category}</p>
-                    <h2 className="text-[1.1rem] font-semibold" style={headingTextColor}>{title}</h2>
+                    <p className="inline-block py-[2px] px-3 text-[1.3rem] md:text-sm rounded-none md:rounded lg:rounded mb-1" style={ctgTextStyles}> {category}</p>
+                    <h2 className="text-[2rem] md:text-[1.1rem] font-semibold" style={headingTextColor}>{title}</h2>
                 </div>
             </div>
         </Link>
