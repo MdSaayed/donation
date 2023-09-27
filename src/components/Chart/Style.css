@@ -1,9 +1,22 @@
-.apexcharts-legend-series {
-    display: flex;
-    flex-flow: row-reverse;
-    align-items: center;
-    justify-content: center;
-}
 span.apexcharts-legend-text {
     margin-right: 10px;
+}
+
+@media (max-width: 767px) {
+    .apexcharts-canvas {
+        width: 250px;
+    }
+}
+
+@media (min-width: 768px) {
+    .apexcharts-canvas {
+        width: 400px;
+    }
+
+    .apexcharts-legend-series {
+        display: flex;
+        flex-flow: row-reverse;
+        align-items: center;
+        justify-content: center;
+    }
 }

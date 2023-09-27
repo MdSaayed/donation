@@ -19,17 +19,18 @@ const PiChart = () => {
         height: 6,
         strokeWidth: 3,
       },
-      fontSize: '14',
+      fontSize: '14px',
       fontWeight: 'bold',
+      textAlign: 'center'
     },
   };
 
   return (
     <React.Fragment>
-      <div className='flex items-center justify-center h-[90vh] w-full'>
+      <div className='flex items-center justify-center h-[90vh]'>
         <Chart
           type='pie'
-          width={600}
+          width='100%'
           height={300}
           series={chartData}
           options={options}

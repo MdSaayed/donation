@@ -11,17 +11,10 @@ const DonationDetails = () => {
     const currentDonation = AllDonation.find((dtn) => dtn.id === idInt);
     const { id, picture, donate_amount, description, btn_bg, title } = currentDonation;
 
-    // handle donate
-    // const [currentDonateId, setDonatesId] = useState([]);
     const handleDonate = (id) => {
         const donateId = id;
-        // const newDonates = [...currentDonateId,donateId];
-        // setDonatesId(newDonates);
         saveDonationOnLS(donateId);
-        console.log(donateId);
     }
-
-
 
     const bgImg = {
         backgroundImage: `url(${picture})`,

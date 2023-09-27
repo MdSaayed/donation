@@ -1,15 +1,28 @@
 import { NavLink } from "react-router-dom";
 import Logo from "./Logo";
+import { useState } from "react";
+import { TbMenu2 } from "react-icons/tb";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { AiOutlineClose } from 'react-icons/ai';
+
+
+
+
+
 
 const Navbar = () => {
+
+    const [navMenu, setNavMenu] = useState(false);
+
     return (
         <div className="max-w-6xl mx-auto z-50">
-            <nav className="flex justify-between items-center py-4">
+            <nav className="flex justify-between items-center py-4 px-2 lg:px-0">
                 <Logo />
 
                 <ul className="lg:hidden relative">
-                    <li id="nav-btn">close</li>
-                    <ul id="resposive-menue" className="flex flex-col gap-4 -mr-[1000px] items-center justify-center bg-black absolute top-0 right-0 text-white font-medium w-[300px] h-[100vh] z-50">
+                    <li id="nav-btn" onClick={() => setNavMenu(!navMenu)} className="cursor-pointer"><TbMenu2 /></li>
+                    <ul id="resposive-menu" className={navMenu ? "flex flex-col gap-4 items-center justify-center bg-black absolute -top-4 right-0 text-white font-medium w-[300px] h-[100vh] z-50" : ' -mr-[1000px] hidden'}>
+                        <AiOutlineClose onClick={() => setNavMenu(!navMenu)} className="text-[#fff] absolute top-2 left-2 cursor-pointer" />
                         <li>
                             <NavLink
                                 to="/"
