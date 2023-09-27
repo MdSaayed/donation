@@ -15,8 +15,8 @@ const PiChart = () => {
       position: 'bottom',
       markers: {
         radius: 0, 
-        width: 45,
-        height: 6,
+        width: 50,
+        height: 8,
         strokeWidth: 3,
       },
       fontSize: '14px',

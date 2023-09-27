@@ -5,11 +5,13 @@ import DonationDetails from "../components/DonationDetails/DonationDetails";
 import Donations from "../components/Donation/Donations";
 import Donates from "../components/Donate/Donates";
 import Chart from "../components/Chart/Chart";
+import ErrorPage from "../pages/Home/ErrorPage";
 
 const myCreatrRoute = createBrowserRouter([
     {
         path: '/',
         element: <MainLayout />,
+        errorElement: <ErrorPage />,
         children: [
             {
                 path: '/',
